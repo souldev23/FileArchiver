@@ -1,0 +1,8 @@
+{
+  "source": "Z:\\D\\Loteria",
+  "destiny": "Z:\\D\\Loteria",//"C:\\Users\\soul2\\Documents\\Respaldo",
+  "fIni": "01/01/2017",
+  "fFin": "01/12/2019",
+  "exceptions": [ "ext22", "ext24" ],
+  "testMode": true
+}
